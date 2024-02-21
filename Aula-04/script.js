@@ -1,4 +1,5 @@
 // Pegar os dados do formulario
+const data = []
 
 const fname = document.getElementById("fname");
 
